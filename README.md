@@ -1,4 +1,4 @@
-# Machine-Learning-Task <hr>
+# Crowdedness at Gym <hr>
 
 <h3>Background:</h3>
 <i>When is my university campus gym least crowded, so I know when to work out? We measured how many people were in this gym once every 10 minutes over the last year. We want to be able to predict how crowded the gym will be in the future.</i>
